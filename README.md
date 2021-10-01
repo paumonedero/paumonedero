@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 📫 How to reach me: paumonedero2002@gmail.com
+- 💬 Ask me about Java.
+- 🌱 I’m currently learning Web Development
 <!--
 **paumonedero/paumonedero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
